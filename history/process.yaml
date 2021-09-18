@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-PC01A-4B-PHSENA102-streamed-phsen_data_record
 data_stream: RS01SBPS-PC01A-4B-PHSENA102-streamed-phsen_data_record
 end_date: '2021-09-17T22:00:00.380Z'
-last_updated: '2021-09-18T01:16:02.518791Z'
+last_updated: '2021-09-18T01:27:24.142604'
 start_date: '2014-10-02T23:00:00.285Z'
-status: pending
+status: success
